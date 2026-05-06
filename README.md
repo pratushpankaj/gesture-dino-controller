@@ -34,23 +34,6 @@ Built using **OpenCV**, **MediaPipe**, and **PyAutoGUI**
 
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/gesture-dino-controller.git
-cd gesture-dino-controller
-```
-
-2. Install dependencies:
-
-```bash
-pip install opencv-python mediapipe pyautogui
-```
-
----
-
 ## ▶️ Usage
 
 1. Run the script:
@@ -76,28 +59,5 @@ python game_controller.py
 * Keep hand visible in camera
 
 ---
-
-## 💡 Future Improvements
-
-* Add gesture smoothing (reduce false detection)
-* Add more gestures (pause, speed control)
-* Multi-hand support
-* GUI interface
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! Feel free to improve this project.
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
+## Coder
+PRATYUSH PANKAJ
